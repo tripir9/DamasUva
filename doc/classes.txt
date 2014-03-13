@@ -1,0 +1,21 @@
+** Dummy content **
+Nombredeclase
+	*Atributo1
+	*Atributo2
+	*Atributo3
+	-Método1
+	-Método2
+	-Método3
+*******************
+
+Tablero
+
+
+*******************
+
+Ficha
+
+
+*******************
+
+Jugador
